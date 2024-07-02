@@ -31,6 +31,9 @@ bash
 Usage
 
 Each directory contains a separate machine learning method with its own README and examples. Follow the instructions in each directory to understand and execute the code.
+Contributing
 
+Contributions are welcome! Please fork the repository, create a new branch for your feature or bug fix, and submit a pull request.
+License
 
 This project is licensed under the MIT License.
